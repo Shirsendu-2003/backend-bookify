@@ -1,0 +1,31 @@
+package com.bookingplatform.enums;
+
+public enum NotificationType {
+
+    BOOKING_CREATED,
+
+    BOOKING_ACCEPTED,
+
+    BOOKING_REJECTED,
+
+    BOOKING_CONFIRMED,
+
+    BOOKING_COMPLETED,
+
+    BOOKING_CANCELLED,
+
+    PAYMENT_SUCCESS,
+
+    PAYMENT_FAILED,
+
+    REFUND_ISSUED,
+
+    REVIEW_RECEIVED,
+
+    COMPLAINT_CREATED,
+
+    COMPLAINT_RESOLVED,
+
+    SYSTEM_ALERT
+
+}
