@@ -26,7 +26,8 @@ public class CorsConfig {
                         frontendUrl,
                         "http://localhost:3000",
                         "http://localhost:5173",
-                        "http://192.168.43.84:5173"
+                        "bookify-nine-virid.vercel.app"
+                    
                 )
         );
 
