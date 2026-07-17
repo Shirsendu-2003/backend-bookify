@@ -28,7 +28,7 @@ public class MailService {
 
         String resetUrl =
 
-                "http://localhost:5173/reset-password?token="
+                "https://bookify-nine-virid.vercel.app/reset-password?token="
                         + token;
 
         SimpleMailMessage mail =
